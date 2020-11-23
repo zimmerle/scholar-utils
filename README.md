@@ -1,8 +1,10 @@
 # scholar-utils
 
 
+Set of scripts to grab data from Google Scholar.
 
-## Given author, return the indexes
+
+### Given author, return the indexes
 
 The script returns the h-index, i10-index, and research interests for a given author.
 
@@ -10,7 +12,7 @@ The script returns the h-index, i10-index, and research interests for a given au
 ./author-indexes.py | echo "Leopoldo Teixeira"
 ```
 
-## Given publication, return the amount of citation
+### Given publication, return the amount of citation
 
 Return the amount of citation for a given publication
 
