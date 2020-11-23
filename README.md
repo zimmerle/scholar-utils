@@ -18,6 +18,6 @@ Return the amount of citation for a given publication
 
 
 ```
-./author-indexes.py | echo "Investigating the safe evolution of software product lines"
+./pub-citations.py | echo "Investigating the safe evolution of software product lines"
 ```
 
